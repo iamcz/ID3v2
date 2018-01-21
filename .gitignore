@@ -35,3 +35,7 @@ xcuserdata
 .vs
 ipch
 
+# Makefile
+*.o
+*.d
+ex
